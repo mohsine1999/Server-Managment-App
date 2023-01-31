@@ -20,7 +20,7 @@ Installation
 Clone the repository
 bash
 
-git clone https://github.com/{your-username}/Server-Management-App-With-Spring-Boot.git
+git clone https://github.com/mohsine1999/Server-Managment-App.git
 Navigate to the project directory
 bash
 
